@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "upper-case": "^2.0.2"
+  },
+  "name": "full-stack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lorik-Reshiti/Full-stack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lorik-Reshiti/Full-stack/issues"
+  },
+  "homepage": "https://github.com/Lorik-Reshiti/Full-stack#readme",
+  "description": ""
+}
